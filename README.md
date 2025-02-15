@@ -21,4 +21,5 @@ A Panic Attack Detection System based on physiological signals such as heart rat
 - **Model Evaluation**
   - Performance metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
   - Hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
+At the end of the project different models for this have been compared to see how their perfromances change from on another
 
