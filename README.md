@@ -1,6 +1,6 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
-This project is Panic Attack Detection System based on physiological signals such as heart rate and breathing speed. This explores multiple machine learning models and deep learning techniques to classify whether a person is experiencing a panic attack
+# Panic Attack Detection using Machine Learning and Deep Learning
+This is a Panic Attack Detection System based on physiological signals such as heart rate and breathing speed. This explores multiple machine learning models and deep learning techniques to classify whether a person is experiencing a panic attack
 ___
 Key Features:
   Exploratory Data Analysis (EDA): Data visualization and preprocessing using pandas, seaborn, and matplotlib.
