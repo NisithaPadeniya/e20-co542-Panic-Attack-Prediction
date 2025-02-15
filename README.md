@@ -18,3 +18,7 @@ A Panic Attack Detection System based on physiological signals such as heart rat
     - **EarlyStopping** to prevent overfitting.
     - **ModelCheckpoint** to save the best model.
 
+- **Model Evaluation**
+  - Performance metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
+  - Hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
+
