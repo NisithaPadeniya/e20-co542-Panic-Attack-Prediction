@@ -58,7 +58,7 @@ Several ML models were trained on the dataset:
    - Gradient boosting method.  
    - **Result:** ~11.2% accuracy.
 
-🏆 **Best ML Model: SVM with Accuracy = 12.5%.**
+**Best ML Model: SVM with Accuracy = 12.5%.**
 
 # Deep Learning Models Used
 
@@ -83,5 +83,4 @@ Various Deep Learning models were also tested:
 5. **Convolutional Neural Network (CNN)**  
    - Used Conv1D layers to extract features.  
    - **Result:** 10.4% accuracy.
-
-🏆 **Best DL Model: DNN with Accuracy = 10.8%.**
+ **Best DL Model: DNN with Accuracy = 10.8%.**
